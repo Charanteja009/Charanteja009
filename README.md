@@ -59,11 +59,6 @@ While my core focus is on **Data Science & ML**, I also have **working knowledge
 
 ---
 
-### ☁️ Cloud
-![OCI](https://img.shields.io/badge/Oracle%20Cloud-0d1117?style=for-the-badge&logo=oracle&logoColor=red)
-
----
-
 ## 📈 GitHub Statistics
 
 <p align="center">
