@@ -1,108 +1,133 @@
 <div align="center">
- 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Charan%20Teja&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Turning%20Data%20Into%20Insights%20|%20Building%20ML%20Solutions&descAlignY=51&descSize=20&fontColor=ffffff" alt="Header Background" width="100%"/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist;Data+Analyst;Machine+Learning+Engineer;Applied+AI+Enthusiast&center=true&width=500&height=50&color=2F80ED&vCenter=true&pause=1000&size=24" alt="Typing SVG" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Charan%20Teja&fontSize=70&fontAlignY=38&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer&descAlignY=60&animation=fadeIn&color=gradient" width="100%"/>
 
-  <p>
-     📍 <b>Andhra Pradesh, India</b>
-  </p>
+<img src="https://readme-typing-svg.demolab.com?lines=Data+Scientist;Machine+Learning+Engineer;Data+Analyst;Turning+Data+into+Decisions&center=true&width=520&height=45&pause=1000&size=24" />
 
-  <p>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
+<br/>
+
+<a href="https://linkedin.com/in/sidde-gnaneswar-reddy-6b25b8285">
+  <img src="https://img.shields.io/badge/LinkedIn-Charan%20Teja-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:gnaneswar.sidde@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
-
-<br />
 
 ---
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+## 👋 About Me
+
+I am a **Data Scientist and Machine Learning Engineer** with a strong interest in building data-driven products that solve real business problems.
+
+I enjoy working across the complete lifecycle of a data project — from data exploration and feature engineering to model development, evaluation and deployment.  
+My focus is on building **practical, scalable and interpretable ML solutions**.
+
+**Core interests**
+
+- Applied Machine Learning  
+- Predictive analytics and forecasting  
+- Data-driven product development  
+- MLOps and deployment workflows  
+
+
+## 🛠 Tech Stack
+
+<table align="center" cellpadding="12" cellspacing="0" style="border-collapse:collapse;">
   <tr>
-    <td width="60%" valign="top">
-      
-## 🧑‍💼 About Me
+    <th align="left">Category</th>
+    <th align="left">Technologies</th>
+  </tr>
 
-I am a **Data Scientist and Machine Learning Engineer** with a strong foundation in **data analysis, statistical thinking, and applied machine learning**.  
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    </td>
+  </tr>
 
-I enjoy working with data end-to-end — from **exploration and modeling** to **deployment and real-world impact**. While my core focus is on **Data Science & ML**, I also have working knowledge of frontend and backend technologies, enabling me to deploy models as usable applications.
+  <tr>
+    <td><b>Data Science & ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+    </td>
+  </tr>
 
-### 🧠 Core Expertise
-- 📊 **Data Analysis & EDA**
-- 🤖 **Machine Learning & Modeling**
-- 🧪 **Feature Engineering**
-- ⚙️ **ML Pipelines & Deployment**
-- 📈 **Business-driven problem solving**
+  <tr>
+    <td><b>Visualization & BI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+    </td>
+  </tr>
 
-</td>
-    <td width="5%"></td>
-    <td width="35%" valign="top">
-
-<h2 align="center">⚡ GitHub Analytics</h2>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddeGnaneswarReddy&theme=tokyonight&hide_border=true" height="170" />
-</div>
-
-<br/>
-
----
-
-<h2 align="center">🎲 Snake & Ladder Game</h2>
-
-<p align="center">
-  A fun side project showcasing logic building, game state handling, and UI interaction.
-</p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-       alt="Snake Preview"
-       width="600"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://Charanteja009.github.io/snake-ladder-game/" target="_blank">
-    <img src="https://img.shields.io/badge/▶️%20Play%20Snake%20%26%20Ladder-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<br/>
----
-
-
-
-</td>
+  <tr>
+    <td><b>Backend & Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+    </td>
   </tr>
 </table>
 
+## 🚀 What I Do
+
+- Build end-to-end ML pipelines  
+- Perform exploratory data analysis and feature engineering  
+- Develop and evaluate supervised learning models  
+- Create dashboards and analytical reports  
+- Deploy lightweight ML services using Flask  
+
 ---
 
-## 🛠️ Skills & Technologies
+## ⭐ Selected Projects
+
+> Replace the links with your real repositories later.
+
+### 🧠 Machine Learning Prediction System
+End-to-end ML project including preprocessing, model training, evaluation and inference API.
+
+**Tech:** Python, Pandas, Scikit-Learn, Flask
+
+---
+
+### 📊 Data Analytics & Visualization Dashboard
+Interactive dashboard for monitoring KPIs and business trends.
+
+**Tech:** Pandas, SQL, Tableau
+
+---
+
+## 🐍 Contribution Activity
 
 <div align="center">
 
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java) ![C](https://img.shields.io/badge/-C-000?style=flat&logo=c) ![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql) |
-| **Data Science** | ![Pandas](https://img.shields.io/badge/-Pandas-000?style=flat&logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-000?style=flat&logo=numpy) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-000?style=flat&logo=scikit-learn) |
-| **ML & MLOps** | ![MLflow](https://img.shields.io/badge/-MLOps-000?style=flat&logo=mlflow) ![Databricks](https://img.shields.io/badge/-EDA-000?style=flat&logo=databricks) |
-| **Web & Dev** | ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask) ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js) |
+<img src="https://raw.githubusercontent.com/Charanteja009/Charanteja009/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
-<br />
+---
+
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-  <br />
-  <i>Data-driven mindset • Practical machine learning • Continuous learning</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient" width="100%"/>
+
+<img src="https://komarev.com/ghpvc/?username=Charanteja009&label=Profile%20Views&color=0e75b6&style=flat"/>
+
 </div>
