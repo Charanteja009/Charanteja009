@@ -95,23 +95,22 @@ My focus is on building **practical, scalable and interpretable ML solutions**.
 
 ---
 
-## ⭐ Selected Projects
+## 💼 Professional Highlights
 
-> Replace the links with your real repositories later.
+- Designed and implemented end-to-end machine learning workflows covering data ingestion, feature engineering, model training and evaluation.
+- Built predictive models for real-world datasets with a focus on performance, explainability and business impact.
+- Developed data analysis pipelines and dashboards to support data-driven decision making.
+- Worked with structured and semi-structured data to extract actionable insights.
+- Deployed lightweight ML services and APIs for model inference.
 
-### 🧠 Machine Learning Prediction System
-End-to-end ML project including preprocessing, model training, evaluation and inference API.
+### 🔍 Key Areas of Expertise
 
-**Tech:** Python, Pandas, Scikit-Learn, Flask
+- Supervised & unsupervised machine learning
+- Feature engineering and model optimization
+- Statistical analysis and experimentation
+- Data visualization and business reporting
+- Model deployment and MLOps fundamentals
 
----
-
-### 📊 Data Analytics & Visualization Dashboard
-Interactive dashboard for monitoring KPIs and business trends.
-
-**Tech:** Pandas, SQL, Tableau
-
----
 
 ## 🐍 Contribution Activity
 
